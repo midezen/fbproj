@@ -1,0 +1,128 @@
+body{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+
+.main {
+	height: 100px ;
+	background-color:  rgb(10 50 120);
+	}
+
+
+li {
+	list-style: none;
+	display: inline;
+}
+
+#one{
+	float: left;
+	margin-right: 14px;
+}
+#two {
+	margin-right: 14px;
+}
+.wrap {
+	
+	width: 480px;
+	position: absolute;
+	left: 520px;
+	top: 10px;
+}
+.fb {
+	padding-top: 5px;
+	padding-left: 15px;
+	font-size: 20px;
+	font-family: sans-serif;
+	letter-spacing: -2px;
+	color: white;
+}
+label {
+	color: white;
+}
+#fp {
+	color: #e3e3e3;
+	padding-left: 230px;
+}
+.form {
+	
+	width: 420px;
+	position: absolute;
+	left: 587px;
+	top: 108px;
+}
+.phase li input {
+	width: 400px;
+	height: 33px;
+	font-size: 18px;
+	margin: 8px;
+	padding-left: 6px;
+}
+.formmain {
+	
+	margin-left: -48px;
+}
+#firstname, #surname {
+	width: 187px;
+	transform-style: flat;
+}
+#surname {
+	margin-left: 2.5px;
+}
+#create {
+	font-size: 37px;
+	font-family: inherit;  
+}
+#quick {
+	font-size: 20px;
+	font-family: inherit;
+	margin-top: -18px;
+}
+.recent {
+	font-size: 37px;
+	font-family: inherit;
+}
+#cyp {
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-top: -18px;
+}
+#gender, #birthday {
+	color: grey;
+}
+.byclicking {
+	font-size: 11px;
+	width: 300px;
+	color: grey;
+}
+.select {
+	height: 31px;
+	margin-top: -25px;
+	width: 80px;
+}
+a {
+	text-decoration: none;
+	color: blue;
+}
+a:hover {
+	text-decoration: underline;
+}
+.page {
+	font-size: 13px;
+}
+#signup {
+	width: 200px;
+	height: 35px;
+	font-size: 20px;
+	background-color: rgb(40 110 30);
+	color: white;
+}
+#birthday{
+	margin-bottom: -10px;
+}
+
+img {
+	width: 250px;
+	height: 250px;
+}
